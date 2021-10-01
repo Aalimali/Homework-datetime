@@ -5,4 +5,4 @@ Created a calender timeline for a to do task list which will shows time past pre
 Screenshot is of the website made 
 ![](./img/screenshot.png)
 
-Link to website ( https://github.com/Aalimali/Homework-datetime)
+Link to website ( https://aalimali.github.io/Homework-datetime/)
